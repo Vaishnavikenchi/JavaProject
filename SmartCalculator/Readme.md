@@ -55,7 +55,86 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 ## Sample Output:
 
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 1
+Use previous result? (Yes=1 / No=0): 0
+Enter first number: 2
+Enter second number: 3
+Result: 5.0
 
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 2
+Use previous result? (Yes=1 / No=0): 0
+Enter first number: 5
+Enter second number: 3
+Result: 2.0
+
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 3
+Use previous result? (Yes=1 / No=0): 1
+Using previous result: 2.0
+Enter second number: 3
+Result: 6.0
+
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 5
+
+--- SmartCalci History ---
+2.0 + 3.0 = 5.0
+5.0 - 3.0 = 2.0
+2.0 * 3.0 = 6.0
+Total operations: 3
+
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 6
+Total calculations done: 3
+
+--- Welcome to SmartCalci ---
+1. ADDITION
+2. SUBTRACTION
+3. MULTIPLICATION
+4. DIVISION
+5. VIEW HISTORY
+6.VIEW TOTAL OPERATIONS COUNT
+7. EXIT
+Enter your choice: 7
+Thank you for using SmartCalci!
+Total calculations done: 3
 
 
 
