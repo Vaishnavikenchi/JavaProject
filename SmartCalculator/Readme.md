@@ -42,3 +42,5 @@ It allows users to perform basic arithmetic operations, view calculation history
 3. Compile the program:
    ```bash
    javac SmartCalci.java
+4. Run the Program:
+   java SmartCalci
