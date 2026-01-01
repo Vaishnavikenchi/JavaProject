@@ -3,15 +3,6 @@
 **SmartCalci** is a console-based calculator built using **Core Java**.  
 It allows users to perform basic arithmetic operations, view calculation history, track total operations, and reuse the **previous calculation result** for faster calculations.
 
----
-
-## 📜 Table of Contents
-- [✨ Features](#-features)
-- [🛠 Technologies](#-technologies)
-- [🚀 How to Run](#-how-to-run)
-- [💡 Usage](#-usage)
-- [📤 Sample Output](#-sample-output)
-- [👤 Author](#-author)
 
 ---
 
