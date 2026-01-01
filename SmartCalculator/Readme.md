@@ -64,6 +64,7 @@ It allows users to perform basic arithmetic operations, view calculation history
 5. VIEW HISTORY
 6.VIEW TOTAL OPERATIONS COUNT
 7. EXIT
+
 Enter your choice: 1
 Use previous result? (Yes=1 / No=0): 0
 Enter first number: 2
@@ -79,6 +80,7 @@ Result: 5.0
 5. VIEW HISTORY
 6.VIEW TOTAL OPERATIONS COUNT
 7. EXIT
+
 Enter your choice: 5
 
 --- SmartCalci History ---
@@ -93,6 +95,7 @@ Total operations: 1
 5. VIEW HISTORY
 6.VIEW TOTAL OPERATIONS COUNT
 7. EXIT
+
 Enter your choice: 6
 Total calculations done: 1
 
@@ -104,6 +107,7 @@ Total calculations done: 1
 5. VIEW HISTORY
 6.VIEW TOTAL OPERATIONS COUNT
 7. EXIT
+
 Enter your choice: 7
 Thank you for using SmartCalci!
 Total calculations done: 1
