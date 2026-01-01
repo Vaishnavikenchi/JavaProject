@@ -58,7 +58,7 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 
 
-# Output:
+## Output:
 
 --- Welcome to SmartCalci ---
 1. ADDITION
@@ -112,7 +112,9 @@ Thank you for using SmartCalci!
 Total calculations done: 1
 
 
-👤 Author
+
+
+## 👤 Author
 
 -Vaishnavi Kenchi
 Email:vkenchi5@gmail.com
