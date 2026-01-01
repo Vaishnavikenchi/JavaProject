@@ -33,10 +33,11 @@ It allows users to perform basic arithmetic operations, view calculation history
    ```bash
    javac SmartCalci.java
 4.Run the Program:
-```bash
+   ```bash
    java SmartCalci
 
-## Steps:
+
+## Steps
 
 1.Choose an operation (1-4) to perform calculation
 2.Use previous result?
