@@ -1,9 +1,11 @@
 # 🧮 SmartCalci – Java Console Calculator
 
+
 **SmartCalci** is a console-based calculator built using **Core Java**.  
 It allows users to perform basic arithmetic operations, view calculation history, track total operations, and reuse the **previous calculation result** for faster calculations.
 
 ---
+
 
 ## ✨ Features
 - ➕ Addition  
@@ -17,6 +19,7 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 ---
 
+
 ## 🛠 Technologies
 - Core Java (Java SE)  
 - `Scanner` for input handling  
@@ -25,7 +28,9 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 ---
 
+
 ## 🚀 How to Run
+
 
 1. Make sure **Java JDK** is installed on your system  
 2. Open the project folder in **VS Code** or any Java IDE  
@@ -33,6 +38,7 @@ It allows users to perform basic arithmetic operations, view calculation history
    ```bash
    javac SmartCalci.java
 5. Run the Program:java SmartCalci
+
 
 
 
