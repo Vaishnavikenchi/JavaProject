@@ -7,6 +7,7 @@ The system validates voter age, prevents duplicate voting using Voter ID, allows
 
 This project demonstrates the use of core Java concepts in a real-world scenario.
 
+
 ## 🎯 Objectives
 
 To design a simple voting system using Java
@@ -14,6 +15,7 @@ To validate voter eligibility based on age
 To prevent duplicate voting
 To count votes accurately
 To declare election results securely
+
 
 ## 🛠️ Technologies Used
 
